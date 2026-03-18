@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local ok client artifacts
+.ok_history
+.ok_messages
+.ok_storage
